@@ -68,7 +68,6 @@ readline
 rsync
 shared-mime-info
 speedtest-cli
-speedtest_cli
 sqlite
 thefuck
 timedog
